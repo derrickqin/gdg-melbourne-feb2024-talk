@@ -1,0 +1,6 @@
+streamlit
+google-cloud-aiplatform
+google-cloud-bigquery
+langchain
+langchain-google-vertexai
+langchain-community
